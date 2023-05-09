@@ -1,1 +1,1 @@
-# pyspark
+# Repository created to study pyspark.
